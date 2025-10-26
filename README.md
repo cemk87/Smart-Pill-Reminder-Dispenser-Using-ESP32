@@ -61,7 +61,7 @@ This project helps patients take their medicine on time by providing both audio 
     These arrays define the pill reminder times (9:00 AM, 1:00 PM, and 10:30 PM).
     Modify them as per your medicine schedule.
   
-     **Key Functions**-
+    **Key Functions**-
 
       - triggerReminder() → Activates buzzer, LED, and servo
       - stopReminder() → Stops alert and confirms intake
@@ -124,3 +124,5 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
  - **LinkedIn**: [linkedin.com/in/yourprofile]
  - **GitHub**: [github.com/yourusername](https://github.com/cemk87)
 💡 I’d love to connect and collaborate on exciting projects!
+
+
